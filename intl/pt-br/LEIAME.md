@@ -9,9 +9,9 @@
 
 ## Traduções
 
-[español](intl/es/README.md)  [français](intl/fr/FAQ-fr.md) [русский](intl/ru/README-ru.md)
+[english](README.md)
 
-Caso você queira ajudar na tradução do conteúdo/regras para seu idioma, mande um pull request (ou mande uma DM no Twitter para @ka11away), adicionando uma subpasta na pasta chamada 'intl' com os arquivos traduzidos.
+<!--Caso você queira ajudar na tradução do conteúdo/regras para seu idioma, mande um pull request (ou mande uma DM no Twitter para @ka11away), adicionando uma subpasta na pasta chamada 'intl' com os arquivos traduzidos.-->
 
 ## Se você decidir participar:
 
