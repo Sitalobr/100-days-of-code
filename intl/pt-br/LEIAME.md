@@ -9,7 +9,7 @@
 
 ## Traduções
 
-[english](README.md)
+[english](../../README.md)
 
 <!--Caso você queira ajudar na tradução do conteúdo/regras para seu idioma, mande um pull request (ou mande uma DM no Twitter para @ka11away), adicionando uma subpasta na pasta chamada 'intl' com os arquivos traduzidos.-->
 
