@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge. Started on [August 16, Thursday, 2018].
 
 ## Log
 
-### R1D1 
-Iniciei os estudos práticos de programação mobile Android. Aprendi como configurar o básico de uma interface e como utilizar eventos de click em botões.
+### R1D1
+Started Android mobile programming practical studies. Learned how to configure basic interfaces and how to use onClick events on buttons.
 
 ### R1D2
