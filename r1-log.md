@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Simão Ítalo
 
 The log of my #100DaysOfCode challenge. Started on [August 16, Thursday, 2018].
 
