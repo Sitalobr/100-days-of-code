@@ -1,15 +1,14 @@
 # 100 Days Of Code - Log
 
-### Dia 0: 29 de fevereiro, 2016 (Exemplo 1)
-##### (me delete ou transforme em comentário)
+### Dia 1: 16 de Agosto, 2018
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
+**Progresso do dia:** Iniciei os estudos práticos de programação mobile Android.
 
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
+**Aprendizados:** Aprendi como configurar o básico de uma interface e como utilizar eventos de click em botões.
 
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+!--**Link do trabalho:** [App de calculadora](http://www.example.com)-->
 
-### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
+!--### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)
 
 **Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
@@ -26,4 +25,4 @@
 
 **Link(s) do(s) trabalho(s)**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
