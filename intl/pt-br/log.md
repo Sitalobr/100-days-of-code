@@ -6,7 +6,7 @@
 
 **Aprendizados:** Aprendi como configurar o básico de uma interface e como utilizar eventos de click em botões.
 
-<!--**Link do trabalho:** [App de calculadora](http://www.example.com)-->
+**Link do trabalho:** [Sorteio App](https://github.com/Sitalobr/estudo-android/tree/master/app-sorteio)
 
 <!--### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)
