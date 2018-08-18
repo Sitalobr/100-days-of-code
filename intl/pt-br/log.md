@@ -8,6 +8,14 @@
 
 **Link do trabalho:** [Sorteio App](https://github.com/Sitalobr/estudo-android/tree/master/app-sorteio)
 
+### Dia 2: 17 de Agosto, 2018
+
+**Progresso do dia:** Continuando os estudos de programação mobile Android.
+
+**Aprendizados:**  Hoje aprendi como funciona os layout constraints, inserção de imagens nos apps e continuei utilizando eventos de click.
+
+**Link do trabalho:** [App Frases do dia](https://github.com/Sitalobr/estudo-android/tree/master/AppFrasesdoDia)
+
 <!--### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)
 
