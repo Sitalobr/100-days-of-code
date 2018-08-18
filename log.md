@@ -6,7 +6,7 @@
 
 **Thoughts:** Learned how to configure basic interfaces and how to use onClick events on buttons.
 
-<!--**Link to work:** [Calculator App](http://www.example.com)-->
+**Link to work:** [Sorteio App](https://github.com/Sitalobr/estudo-android/tree/master/app-sorteio)
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
