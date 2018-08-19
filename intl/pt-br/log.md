@@ -16,6 +16,14 @@
 
 **Link do trabalho:** [App Frases do dia](https://github.com/Sitalobr/estudo-android/tree/master/AppFrasesdoDia)
 
+### Dia 3: 18 de Agosto, 2018
+
+**Progresso do dia:** Dando continuidade aos estudos de programação mobile Android. Hoje iniciei um projeto do jogo Pedra-papel-tesoura-lagarto-Spock para testar os conhecimentos aprendidos anteriormente.
+
+**Aprendizados:**  Achei que havia dominado os layout constraints mas sempre há mais coisas a aprender.
+
+**Link do trabalho:** [App RopascilizSpock](https://github.com/Sitalobr/estudo-android/tree/master/RopascilizSpock)
+
 <!--### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)
 

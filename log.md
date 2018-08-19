@@ -9,13 +9,21 @@
 **Link to work:** [Sorteio App](https://github.com/Sitalobr/estudo-android/tree/master/app-sorteio)
 
 
-### Dia 2: 17 de Agosto, 2018
+### Day 2: August 17, 2018
 
 **Today's Progress:** I kept studying Android mobile programming.
 
 **Thoughts:** Today I learned how layout constraints works, how to insert images in the apps and kept using click events.
 
 **Link to work:** [App Frases do dia](https://github.com/Sitalobr/estudo-android/tree/master/AppFrasesdoDia)
+
+### Day 3: August 18, 2018
+
+**Today's Progress:** Kept studying Android mobile programming. Today I started a project inspired in the Rock-paper-scissors-lizard-Spock game to test the knowledge learned earlier.
+
+**Thoughts:**  Thought I had dominated layout constraints but there're always more things to learn.
+
+**Link to work:** [App RopascilizSpock](https://github.com/Sitalobr/estudo-android/tree/master/RopascilizSpock)
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
