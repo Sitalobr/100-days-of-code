@@ -15,3 +15,7 @@ Continuando os estudos de programação mobile Android. Hoje aprendi como funcio
 ### R1D3
 
 Dando continuidade aos estudos de programação mobile Android. Hoje iniciei um projeto do jogo Pedra-papel-tesoura-lagarto-Spock para testar os conhecimentos aprendidos anteriormente. Achei que havia dominado os layout constraints mas sempre há mais coisas a aprender.
+
+### R1D4
+
+Hoje eu foquei na customização de temas e tentei dar uma cara diferente para os apps criados.

@@ -21,9 +21,13 @@
 
 **Today's Progress:** Kept studying Android mobile programming. Today I started a project inspired in the Rock-paper-scissors-lizard-Spock game to test the knowledge learned earlier.
 
-**Thoughts:**  Thought I had dominated layout constraints but there're always more things to learn.
+**Thoughts:** Thought I had dominated layout constraints but there're always more things to learn.
 
 **Link to work:** [App RopascilizSpock](https://github.com/Sitalobr/estudo-android/tree/master/RopascilizSpock)
+
+### Day 4: August 19, 2018
+
+**Today's Progress:** Today I focused on the theme customization and tried to give a different look to the created apps.
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)

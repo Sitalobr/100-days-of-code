@@ -24,6 +24,10 @@
 
 **Link do trabalho:** [App RopascilizSpock](https://github.com/Sitalobr/estudo-android/tree/master/RopascilizSpock)
 
+### Dia 4: 19 de Agosto, 2018
+
+**Progresso do dia:** Hoje eu foquei na customização de temas e tentei dar uma cara diferente para os apps criados.
+
 <!--### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)
 

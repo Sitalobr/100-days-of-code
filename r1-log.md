@@ -15,3 +15,7 @@ I kept studying Android mobile programming. Today I learned how layout constrain
 ### R1D3
 
 Kept studying Android mobile programming. Today I started a project inspired in the Rock-paper-scissors-lizard-Spock game to test the knowledge learned earlier. Thought I had dominated layout constraints but there're always more things to learn.
+
+### R1D4
+
+Today I focused on the theme customization and tried to give a different look to the created apps.
