@@ -19,3 +19,7 @@ Dando continuidade aos estudos de programação mobile Android. Hoje iniciei um 
 ### R1D4
 
 Hoje eu foquei na customização de temas e tentei dar uma cara diferente para os apps criados.
+
+### R1D5
+
+Melhorei a lógica da aplicação inspirada no pedra-papel-tesoura. Ainda foquei na interface e no entendimento de novos temas. Aprendi sobre como funciona a unidade de medida dp #sempreusar

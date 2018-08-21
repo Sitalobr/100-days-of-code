@@ -28,6 +28,14 @@
 
 **Progresso do dia:** Hoje eu foquei na customização de temas e tentei dar uma cara diferente para os apps criados.
 
+### Dia 5: 20 de Agosto, 2018
+
+**Progresso do dia:** Melhorei a lógica da aplicação inspirada no pedra-papel-tesoura. Ainda foquei na interface e no entendimento de novos temas.
+
+**Aprendizados:** Aprendi sobre como funciona a unidade de medida dp #sempreusar
+
+**Link do trabalho:** [App RopascilizSpock](https://github.com/Sitalobr/estudo-android/tree/master/RopascilizSpock)
+
 <!--### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)
 

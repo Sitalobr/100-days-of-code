@@ -29,6 +29,14 @@
 
 **Today's Progress:** Today I focused on the theme customization and tried to give a different look to the created apps.
 
+### Day 5: August 20, 2018
+
+**Today's Progress:** Improved the logic of the app inspired in the rock-paper-scissors. Still focused in the interface and in the understanding of new themes.
+
+**Aprendizados:** Learned how the unit of measurement dp works #alwaysUse
+
+**Link to work:** [App RopascilizSpock](https://github.com/Sitalobr/estudo-android/tree/master/RopascilizSpock)
+
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 

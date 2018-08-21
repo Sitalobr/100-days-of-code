@@ -19,3 +19,7 @@ Kept studying Android mobile programming. Today I started a project inspired in 
 ### R1D4
 
 Today I focused on the theme customization and tried to give a different look to the created apps.
+
+### R1D5
+
+Improved the logic of the app inspired in the rock-paper-scissors. Still focused in the interface and in the understanding of new themes. Learned how the unit of measurement dp works #alwaysUse
