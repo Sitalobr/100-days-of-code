@@ -36,6 +36,14 @@
 
 **Link do trabalho:** [App RopascilizSpock](https://github.com/Sitalobr/estudo-android/tree/master/RopascilizSpock)
 
+### Dia 6: 21 de Agosto, 2018
+
+**Progresso do dia:** Criei um novo app para aplicar os conhecimentos adiquiridos sobre layout, dessa vez o objetivo é configurar uma interface inspirada em um app de notícias que seja capaz de ser bem exibida em todos os tamanhos de tela e dpi.
+
+**Aprendizados:** Aprofundei os conhecimentos em layout por estudar os conceitos de dpi e constraints.
+
+**Link do trabalho:** [App NoticiasLayout](https://github.com/Sitalobr/estudo-android/tree/master/AppNoticiasLayout)
+
 <!--### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)
 

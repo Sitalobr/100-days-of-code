@@ -23,3 +23,8 @@ Hoje eu foquei na customização de temas e tentei dar uma cara diferente para o
 ### R1D5
 
 Melhorei a lógica da aplicação inspirada no pedra-papel-tesoura. Ainda foquei na interface e no entendimento de novos temas. Aprendi sobre como funciona a unidade de medida dp #sempreusar
+
+### R1D6
+
+Criei um novo app para aplicar os conhecimentos adiquiridos sobre layout. Dessa vez o objetivo é configurar uma interface inspirada em um app de notícias que seja capaz de ser bem exibida em todos os tamanhos de tela e dpi.
+Aprofundei os conhecimentos em layout por estudar os conceitos de dpi e constraints.

@@ -33,9 +33,17 @@
 
 **Today's Progress:** Improved the logic of the app inspired in the rock-paper-scissors. Still focused in the interface and in the understanding of new themes.
 
-**Aprendizados:** Learned how the unit of measurement dp works #alwaysUse
+**Thoughts:** Learned how the unit of measurement dp works #alwaysUse
 
 **Link to work:** [App RopascilizSpock](https://github.com/Sitalobr/estudo-android/tree/master/RopascilizSpock)
+
+### Day 6: August 21, 2018
+
+**Today's Progress:** I created a new app's structure to apply acquired knowledge about layout. The goal this time is to configure an interface inspired in a news' app able to be well seen in all screen sizes and dpi.
+
+**Thoughts:** Improved the knowledge in layout by studying dpi and constraints concepts.
+
+**Link do trabalho:** [App NoticiasLayout](https://github.com/Sitalobr/estudo-android/tree/master/AppNoticiasLayout)
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)

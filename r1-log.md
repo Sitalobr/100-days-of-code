@@ -23,3 +23,8 @@ Today I focused on the theme customization and tried to give a different look to
 ### R1D5
 
 Improved the logic of the app inspired in the rock-paper-scissors. Still focused in the interface and in the understanding of new themes. Learned how the unit of measurement dp works #alwaysUse
+
+### R1D6
+
+I created a new app's structure to apply acquired knowledge about layout. The goal this time is to configure an interface inspired in a news' app able to be well seen in all screen sizes and dpi.
+Improved the knowledge in layout by studying dpi and constraints concepts.
