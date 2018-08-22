@@ -38,7 +38,7 @@
 
 ### Dia 6: 21 de Agosto, 2018
 
-**Progresso do dia:** Criei um novo app para aplicar os conhecimentos adiquiridos sobre layout, dessa vez o objetivo é configurar uma interface inspirada em um app de notícias que seja capaz de ser bem exibida em todos os tamanhos de tela e dpi.
+**Progresso do dia:** Estruturei um novo app para aplicar os conhecimentos adiquiridos sobre layout, dessa vez o objetivo é configurar uma interface inspirada em um app de notícias que seja capaz de ser bem exibida em todos os tamanhos de tela e dpi.
 
 **Aprendizados:** Aprofundei os conhecimentos em layout por estudar os conceitos de dpi e constraints.
 

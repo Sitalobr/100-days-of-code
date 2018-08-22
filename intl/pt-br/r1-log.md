@@ -26,5 +26,5 @@ Melhorei a lógica da aplicação inspirada no pedra-papel-tesoura. Ainda foquei
 
 ### R1D6
 
-Criei um novo app para aplicar os conhecimentos adiquiridos sobre layout. Dessa vez o objetivo é configurar uma interface inspirada em um app de notícias que seja capaz de ser bem exibida em todos os tamanhos de tela e dpi.
+Estruturei um novo app para aplicar os conhecimentos adiquiridos sobre layout. Dessa vez o objetivo é configurar uma interface inspirada em um app de notícias que seja capaz de ser bem exibida em todos os tamanhos de tela e dpi.
 Aprofundei os conhecimentos em layout por estudar os conceitos de dpi e constraints.
