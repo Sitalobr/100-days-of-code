@@ -28,3 +28,7 @@ Melhorei a lógica da aplicação inspirada no pedra-papel-tesoura. Ainda foquei
 
 Estruturei um novo app para aplicar os conhecimentos adiquiridos sobre layout. Dessa vez o objetivo é configurar uma interface inspirada em um app de notícias que seja capaz de ser bem exibida em todos os tamanhos de tela e dpi.
 Aprofundei os conhecimentos em layout por estudar os conceitos de dpi e constraints.
+
+### R1D7
+
+App de layout de notícias finalizado. Aprendi bastante sobre posicionamento de componentes utilizando Constraint Layout e como colocar um ScrollView na tela para melhor visualização.

@@ -43,7 +43,15 @@
 
 **Thoughts:** Improved the knowledge in layout by studying dpi and constraints concepts.
 
-**Link do trabalho:** [App NoticiasLayout](https://github.com/Sitalobr/estudo-android/tree/master/AppNoticiasLayout)
+**Link to work:** [App NoticiasLayout](https://github.com/Sitalobr/estudo-android/tree/master/AppNoticiasLayout)
+
+### Day 7: August 23, 2018
+
+**Today's Progress:** Finished news' layout app.
+
+**Thoughts:** Learned a lot about component positioning using Constraint Layout and how to put a ScrollView to enhance the view.
+
+**Link to work:** [App NoticiasLayout](https://github.com/Sitalobr/estudo-android/tree/master/AppNoticiasLayout)
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)

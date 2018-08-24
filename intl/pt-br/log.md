@@ -44,6 +44,14 @@
 
 **Link do trabalho:** [App NoticiasLayout](https://github.com/Sitalobr/estudo-android/tree/master/AppNoticiasLayout)
 
+### Dia 7: 23 de Agosto, 2018
+
+**Progresso do dia:** App de layout de notícias finalizado.
+
+**Aprendizados:** Aprendi bastante sobre posicionamento de componentes utilizando Constraint Layout e como colocar um ScrollView na tela para melhor visualização.
+
+**Link do trabalho:** [App NoticiasLayout](https://github.com/Sitalobr/estudo-android/tree/master/AppNoticiasLayout)
+
 <!--### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)
 

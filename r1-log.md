@@ -28,3 +28,7 @@ Improved the logic of the app inspired in the rock-paper-scissors. Still focused
 
 I created a new app's structure to apply acquired knowledge about layout. The goal this time is to configure an interface inspired in a news' app able to be well seen in all screen sizes and dpi.
 Improved the knowledge in layout by studying dpi and constraints concepts.
+
+### R1D7
+
+Just finished news' layout app. I learned a lot about component positioning using Constraint Layout and how to put a ScrollView to enhance the view.
