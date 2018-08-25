@@ -36,3 +36,7 @@ Just finished news' layout app. I learned a lot about component positioning usin
 ### R1D8
 
 Creation of an app's layout inspired on Netflix. I learned how to use guidelines to help layout's creation.
+
+### R1D9
+
+Studied about the other existent layout types. Learned how Relative, Linear, Frame and Coordinator layout works.

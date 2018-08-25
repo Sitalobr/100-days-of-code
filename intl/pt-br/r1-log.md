@@ -36,3 +36,7 @@ App de layout de notícias finalizado. Aprendi bastante sobre posicionamento de 
 ### R1D8
 
 Criação de um app inspirado no Netflix. Aprendi como utilizar guidelines para auxiliar na criação do layout.
+
+### R1D9
+
+Estudei sobre os outros tipos de layout existentes. Aprendi como funcionam os layout relativo, linear, frame e coordinator.
