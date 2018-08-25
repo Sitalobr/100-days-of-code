@@ -32,3 +32,7 @@ Aprofundei os conhecimentos em layout por estudar os conceitos de dpi e constrai
 ### R1D7
 
 App de layout de notícias finalizado. Aprendi bastante sobre posicionamento de componentes utilizando Constraint Layout e como colocar um ScrollView na tela para melhor visualização.
+
+### R1D8
+
+Criação de um app inspirado no Netflix. Aprendi como utilizar guidelines para auxiliar na criação do layout.

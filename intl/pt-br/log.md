@@ -52,6 +52,14 @@
 
 **Link do trabalho:** [App NoticiasLayout](https://github.com/Sitalobr/estudo-android/tree/master/AppNoticiasLayout)
 
+### Dia 8: 24 de Agosto, 2018
+
+**Progresso do dia:** Criação de um app inspirado no Netflix.
+
+**Aprendizados:** Aprendi como utilizar guidelines para auxiliar na criação do layout.
+
+**Link do trabalho:** [App NoticiasLayout](https://github.com/Sitalobr/estudo-android/tree/master/AppLayoutNetflix)
+
 <!--### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)
 

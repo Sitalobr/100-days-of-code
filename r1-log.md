@@ -32,3 +32,7 @@ Improved the knowledge in layout by studying dpi and constraints concepts.
 ### R1D7
 
 Just finished news' layout app. I learned a lot about component positioning using Constraint Layout and how to put a ScrollView to enhance the view.
+
+### R1D8
+
+Creation of an app's layout inspired on Netflix. I learned how to use guidelines to help layout's creation.
