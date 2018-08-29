@@ -66,3 +66,11 @@
 **Today's Progress:** Studied about the other existent layout types.
 
 **Thoughts:** Learned how Relative, Linear, Frame and Coordinator layout works.
+
+### Day 10: August 28, 2018
+
+**Today's Progress:** Started an app to calculate the best fuel supply option taking into account alcohol and gasoline's price using linear layout in the interface.
+
+**Thoughts:** Linear layout is a little easier to use than constraint, mainly in forms.
+
+**Link to work:** [App Álcool-Gasolina](https://github.com/Sitalobr/estudo-android/tree/master/AppAlcoolGasolina)

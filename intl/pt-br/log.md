@@ -66,3 +66,10 @@
 
 **Aprendizados:** Aprendi como funcionam os layout relativo, linear, frame e coordinator.
 
+### Dia 10: 28 de Agosto, 2018
+
+**Progresso do dia:** Iniciei um app para calcular qual a melhor opção de abastecimento de um carro levando em consideração o preço do álcool e gasolina utilizando layout linear para a interface.
+
+**Aprendizados:** Layout linear é um pouco mais simples de se utilizar que o Constraint, principalmente em casos de formulários.
+
+**Link do trabalho:** [App Álcool-Gasolina](https://github.com/Sitalobr/estudo-android/tree/master/AppAlcoolGasolina)

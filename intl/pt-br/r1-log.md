@@ -40,3 +40,7 @@ Criação de um app inspirado no Netflix. Aprendi como utilizar guidelines para 
 ### R1D9
 
 Estudei sobre os outros tipos de layout existentes. Aprendi como funcionam os layout relativo, linear, frame e coordinator.
+
+### R1D10
+
+Iniciei um app para calcular qual a melhor opção de abastecimento de um carro levando em consideração o preço do álcool e gasolina utilizando layout linear para a interface. Layout linear é um pouco mais simples de se utilizar que o Constraint, principalmente em casos de formulários.

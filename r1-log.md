@@ -40,3 +40,7 @@ Creation of an app's layout inspired on Netflix. I learned how to use guidelines
 ### R1D9
 
 Studied about the other existent layout types. Learned how Relative, Linear, Frame and Coordinator layout works.
+
+### R1D10
+
+Started an app to calculate the best fuel supply option taking into account alcohol and gasoline's price using linear layout in the interface. Linear layout is a little easier to use than constraint, mainly in forms.
