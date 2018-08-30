@@ -79,3 +79,7 @@
 **Progresso do dia:** App do "Álcool ou gasolina" finalizado.
 
 **Link do trabalho:** [App Álcool-Gasolina](https://github.com/Sitalobr/estudo-android/tree/master/AppAlcoolGasolina)
+
+### Dia 12: 30 de Agosto, 2018
+
+**Progresso do dia:** Aprendi como funcionam alguns componentes básicos de interface (ToggleButton, Switch, Toast e AlertDialog).

@@ -80,3 +80,7 @@
 **Today's Progress:** Finished "Álcool ou gasolina" app.
 
 **Link to work:** [App Álcool-Gasolina](https://github.com/Sitalobr/estudo-android/tree/master/AppAlcoolGasolina)
+
+### Day 12: August 30, 2018
+
+**Today's Progress:** Learned how some basic interface components work (ToggleButton, Switch, Toast e AlertDialog).

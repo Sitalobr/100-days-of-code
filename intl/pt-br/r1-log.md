@@ -48,3 +48,7 @@ Iniciei um app para calcular qual a melhor opção de abastecimento de um carro 
 ### R1D11
 
 App "Álcool ou gasolina" finalizado.
+
+### R1D12
+
+Aprendi como funcionam alguns componentes básicos de interface (ToggleButton, Switch, Toast e AlertDialog).

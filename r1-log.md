@@ -48,3 +48,7 @@ Started an app to calculate the best fuel supply option taking into account alco
 ### R1D11
 
 Finished "Álcool ou gasolina" app.
+
+### R1D12
+
+Learned how some basic interface components work (ToggleButton, Switch, Toast e AlertDialog).
