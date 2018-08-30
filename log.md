@@ -74,3 +74,9 @@
 **Thoughts:** Linear layout is a little easier to use than constraint, mainly in forms.
 
 **Link to work:** [App Álcool-Gasolina](https://github.com/Sitalobr/estudo-android/tree/master/AppAlcoolGasolina)
+
+### Day 11: August 29, 2018
+
+**Today's Progress:** Finished "Álcool ou gasolina" app.
+
+**Link to work:** [App Álcool-Gasolina](https://github.com/Sitalobr/estudo-android/tree/master/AppAlcoolGasolina)

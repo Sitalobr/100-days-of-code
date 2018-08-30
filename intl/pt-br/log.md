@@ -73,3 +73,9 @@
 **Aprendizados:** Layout linear é um pouco mais simples de se utilizar que o Constraint, principalmente em casos de formulários.
 
 **Link do trabalho:** [App Álcool-Gasolina](https://github.com/Sitalobr/estudo-android/tree/master/AppAlcoolGasolina)
+
+### Dia 11: 29 de Agosto, 2018
+
+**Progresso do dia:** App do "Álcool ou gasolina" finalizado.
+
+**Link do trabalho:** [App Álcool-Gasolina](https://github.com/Sitalobr/estudo-android/tree/master/AppAlcoolGasolina)

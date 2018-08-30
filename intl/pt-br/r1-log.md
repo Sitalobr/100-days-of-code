@@ -44,3 +44,7 @@ Estudei sobre os outros tipos de layout existentes. Aprendi como funcionam os la
 ### R1D10
 
 Iniciei um app para calcular qual a melhor opção de abastecimento de um carro levando em consideração o preço do álcool e gasolina utilizando layout linear para a interface. Layout linear é um pouco mais simples de se utilizar que o Constraint, principalmente em casos de formulários.
+
+### R1D11
+
+App "Álcool ou gasolina" finalizado.

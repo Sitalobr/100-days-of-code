@@ -44,3 +44,7 @@ Studied about the other existent layout types. Learned how Relative, Linear, Fra
 ### R1D10
 
 Started an app to calculate the best fuel supply option taking into account alcohol and gasoline's price using linear layout in the interface. Linear layout is a little easier to use than constraint, mainly in forms.
+
+### R1D11
+
+Finished "Álcool ou gasolina" app.
