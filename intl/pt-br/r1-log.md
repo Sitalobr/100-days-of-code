@@ -56,3 +56,7 @@ Aprendi como funcionam alguns componentes básicos de interface (ToggleButton, S
 ### R1D13
 
 Aprendi como funcionam mais alguns componentes básicos de interface (ProgressBar e SeekBar).
+
+### R1D14
+
+Implementei um app que calcula a gorjeta baseada no valor de uma conta e na porcentagem de gorjeta definida para ela. Aprendi como utilizar eventos de onChange, tanto no componente SeekBar como no EditText.

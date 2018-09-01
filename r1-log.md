@@ -56,3 +56,7 @@ Learned how some basic interface components work (ToggleButton, Switch, Toast e 
 ### R1D13
 
 Learned how some more basic interface components work (ProgressBar and SeekBar).
+
+### R1D14
+
+Developed an app that calculates tips based on the bill and percentage values. Learned how to use SeekBar and EditText's onChange events.

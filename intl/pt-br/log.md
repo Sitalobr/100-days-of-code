@@ -87,3 +87,11 @@
 ### Dia 13: 31 de Agosto, 2018
 
 **Progresso do dia:** Aprendi como funcionam mais alguns componentes básicos de interface (ProgressBar e Seekbar).
+
+### Dia 14: 1º de Setembro, 2018
+
+**Progresso do dia:** Implementei um app que calcula a gorjeta baseada no valor de uma conta e na porcentagem de gorjeta definida para ela.
+
+**Aprendizados:** Aprendi como utilizar eventos de onChange, tanto no componente SeekBar como no EditText.
+
+**Link do trabalho:** [App Calculadora de Gorjetas](https://github.com/Sitalobr/estudo-android/tree/master/AppCalculadoraGorjeta)
