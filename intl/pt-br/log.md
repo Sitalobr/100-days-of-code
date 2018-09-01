@@ -83,3 +83,7 @@
 ### Dia 12: 30 de Agosto, 2018
 
 **Progresso do dia:** Aprendi como funcionam alguns componentes básicos de interface (ToggleButton, Switch, Toast e AlertDialog).
+
+### Dia 13: 31 de Agosto, 2018
+
+**Progresso do dia:** Aprendi como funcionam mais alguns componentes básicos de interface (ProgressBar e Seekbar).

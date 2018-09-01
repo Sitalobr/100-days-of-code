@@ -52,3 +52,7 @@ App "Álcool ou gasolina" finalizado.
 ### R1D12
 
 Aprendi como funcionam alguns componentes básicos de interface (ToggleButton, Switch, Toast e AlertDialog).
+
+### R1D13
+
+Aprendi como funcionam mais alguns componentes básicos de interface (ProgressBar e SeekBar).

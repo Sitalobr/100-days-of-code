@@ -83,4 +83,8 @@
 
 ### Day 12: August 30, 2018
 
-**Today's Progress:** Learned how some basic interface components work (ToggleButton, Switch, Toast e AlertDialog).
+**Today's Progress:** Learned how some basic interface components work (ToggleButton, Switch, Toast and AlertDialog).
+
+### Day 13: August 31, 2018
+
+**Today's Progress:** Learned how some more basic interface components work (ProgressBar and SeekBar).
