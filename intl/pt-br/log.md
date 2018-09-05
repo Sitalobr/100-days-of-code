@@ -95,3 +95,11 @@
 **Aprendizados:** Aprendi como utilizar eventos de onChange, tanto no componente SeekBar como no EditText.
 
 **Link do trabalho:** [App Calculadora de Gorjetas](https://github.com/Sitalobr/estudo-android/tree/master/AppCalculadoraGorjeta)
+
+### Dia 15: 4 de Setembro, 2018
+
+**Progresso do dia:** Criei um app para exemplificar a implementação de um RecyclerView.
+
+**Aprendizados:** Aprendi como utilizar List e RecycleView.
+
+**Link do trabalho:** [App RecyclerView](https://github.com/Sitalobr/estudo-android/tree/master/RecyclerView)

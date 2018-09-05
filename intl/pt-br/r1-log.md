@@ -60,3 +60,7 @@ Aprendi como funcionam mais alguns componentes básicos de interface (ProgressBa
 ### R1D14
 
 Implementei um app que calcula a gorjeta baseada no valor de uma conta e na porcentagem de gorjeta definida para ela. Aprendi como utilizar eventos de onChange, tanto no componente SeekBar como no EditText.
+
+### R1D15
+
+Criei um app para exemplificar a implementação de um RecyclerView. Aprendi como utilizar List e RecycleView.

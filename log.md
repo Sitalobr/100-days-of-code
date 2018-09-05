@@ -96,3 +96,11 @@
 **Thoughts:** Learned how to use SeekBar and EditText's onChange events.
 
 **Link to work:** [App Calculadora de Gorjetas](https://github.com/Sitalobr/estudo-android/tree/master/AppCalculadoraGorjeta)
+
+### Day 15: Semptember 4, 2018
+
+**Today's progress:** App to exemplify a RecyclerView implementation created.
+
+**Thoughts:** Learned how to use List and Recycler views.
+
+**Link to work:** [App RecyclerView](https://github.com/Sitalobr/estudo-android/tree/master/RecyclerView)

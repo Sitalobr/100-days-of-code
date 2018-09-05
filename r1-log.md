@@ -60,3 +60,7 @@ Learned how some more basic interface components work (ProgressBar and SeekBar).
 ### R1D14
 
 Developed an app that calculates tips based on the bill and percentage values. Learned how to use SeekBar and EditText's onChange events.
+
+### R1D15
+
+App to exemplify a RecyclerView implementation created. Learned how to use List and Recycler views.
